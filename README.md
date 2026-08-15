@@ -1,13 +1,10 @@
 🪔 Diwali Sales Data Analysis
+
 📊 Project Overview
 
 This project performs an Exploratory Data Analysis (EDA) on Diwali sales data to understand customer purchasing behavior, sales patterns, and product performance.
 
 The analysis uses Python to clean, transform, analyze, and visualize the data. The goal is to identify meaningful business insights that can help businesses improve their marketing strategies, customer targeting, and product planning during the Diwali festive season.
-
-The complete analysis is available in the Jupyter Notebook:
-
-DA_Project.ipynb
 
 🎯 Objectives
 
